@@ -1,0 +1,3 @@
+// let const
+
+// global scope
